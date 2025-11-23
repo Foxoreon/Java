@@ -84,4 +84,5 @@ public class Set {
         set.remove(1);
         System.out.println("После удаления: " + set);
     }
+
 }
